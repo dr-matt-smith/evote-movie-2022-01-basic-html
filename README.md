@@ -1,10 +1,12 @@
-# evote-movie-2020-01-basic-html
+# evote-movie-2022-01-basic-html
 
-part of the evote-2002 project sequence
+part of the evote-2022 project sequence
 
-- [https://github.com/dr-matt-smith/evote-movie-2020](https://github.com/dr-matt-smith/evote-movie-2020)
+- [https://github.com/dr-matt-smith/evote-movie-2022](https://github.com/dr-matt-smith/evote-movie-2022)
 
 ## Notes
+
+A set of HTML pages, with some CSS and images, in a folder `\public`
 
 Test with built-in PHP web server
 
